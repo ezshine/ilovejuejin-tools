@@ -10,5 +10,18 @@
 		"url":"https://tool.lu/base64image/",
 		"description":"简单好用的图片转base64",
 		"recommendby":"2955079655898093"
+	},
+	{
+		"title":"Markdown排版工具",
+		"url":"https://www.mdnice.com/",
+		"description":"一个支持自定义样式的在线微信Markdown排版工具 支持自定义样式的 Markdown 编辑器 支持微信公众号排版 支持知乎、稀土掘金、博客园",
+		"recommendby":"1978776660216136"
+	},
+	{
+		"title":"抠图工具Remove",
+		"url":"https://www.remove.bg/",
+		"description":"超级强大的抠图工具",
+		"recommendby":"1978776660216136"
 	}
+
 ]
