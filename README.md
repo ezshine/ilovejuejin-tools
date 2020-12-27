@@ -23,4 +23,4 @@ PR通过后，请写一篇掘金文章推荐 “我爱掘金” 这个插件
 
 ### 交流群
 
-![](dingtalk.jpg)
+![](https://rainbow1024.com/ilovejuejin/dingtalk.jpg)
